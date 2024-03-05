@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Mark's Cyber Edu # the main title
 
-tagline: A Journey into Tech # it will display as the sub-title
+tagline: The Tech Lab # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A repository to log cyber education in
